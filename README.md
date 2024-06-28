@@ -1,2 +1,2 @@
-# TechSpace_Tasks
-Course Tasks
+# TechSpace
+Course Staff
